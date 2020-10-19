@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1601070739 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\boolean.cpp
+	"Boolean.h"
+
+1599261236 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\boolean.h
+	<stdio.h>
+
+1600902363 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\fecha.cpp
+	"Fecha.h"
+
+1600902363 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\fecha.h
+	"Boolean.h"
+
+1600886682 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\hora.cpp
+	"Hora.h"
+
+1600886682 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\hora.h
+	"Boolean.h"
+
+1600550017 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\string.cpp
+	"String.h"
+
+1598660781 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\string.h
+	"Boolean.h"
+
+1601051943 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\main.cpp
+	"Muestra.h"
+	"Menu.h"
+
+1600550024 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\juvenil.cpp
+	"Juvenil.h"
+
+1600477214 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\juvenil.h
+	"String.h"
+
+1600637237 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\tipobailarin.h
+	<stdio.h>
+
+1601071220 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\tipobailarin.cpp
+	"Tipobailarin.h"
+
+1600553794 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\nacionalidad.h
+	<stdio.h>
+
+1600553801 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\nacionalidad.cpp
+	"Nacionalidad.h"
+
+1600903720 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\bailarin.h
+	"Nacionalidad.h"
+	"Juvenil.h"
+	"Tipobailarin.h"
+	"Fecha.h"
+	"Hora.h"
+
+1600903807 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\bailarin.cpp
+	"Bailarin.h"
+
+1600909063 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\muestra.h
+	"Bailarin.h"
+
+1601051057 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\muestra.cpp
+	"Muestra.h"
+
+1600909063 c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\menu.h
+
+1601047542 source:c:\users\quique\documents\ude\programacion 2\practicos prog2\trabajo 1 obligatorio p2\menu.cpp
+	"Menu.h"
+	<stdio.h>
+
+1601333635 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\bailarin.cpp
+	"Bailarin.h"
+
+1601333610 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\bailarin.h
+	"Nacionalidad.h"
+	"Juvenil.h"
+	"Tipobailarin.h"
+	"Fecha.h"
+	"Hora.h"
+	<stdlib.h>
+
+1600553796 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\nacionalidad.h
+	<stdio.h>
+
+1601333728 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\juvenil.h
+	"String.h"
+
+1598660782 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\string.h
+	"Boolean.h"
+
+1599261238 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\boolean.h
+	<stdio.h>
+
+1601081195 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\tipobailarin.h
+	<stdio.h>
+
+1600902364 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\fecha.h
+	"Boolean.h"
+
+1601077367 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\hora.h
+	"Boolean.h"
+
+1601333184 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\boolean.cpp
+	"Boolean.h"
+
+1601249733 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\fecha.cpp
+	"Fecha.h"
+
+1601332463 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\hora.cpp
+	"Hora.h"
+
+1601075288 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\juvenil.cpp
+	"Juvenil.h"
+
+1601332425 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\main.cpp
+	"Muestra.h"
+	"Menu.h"
+
+1601334540 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\muestra.h
+	"Bailarin.h"
+
+1600909064 d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\menu.h
+
+1601335040 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\muestra.cpp
+	"Muestra.h"
+
+1601331978 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\nacionalidad.cpp
+	"Nacionalidad.h"
+
+1601243920 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\string.cpp
+	"String.h"
+
+1601332195 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\tipobailarin.cpp
+	"Tipobailarin.h"
+
+1601074275 source:d:\documents\federico\ude\segundo semestre\programacion2\obligatorio\corregido por el profe\menu.cpp
+	"Menu.h"
+	<stdio.h>
+
